@@ -1,3 +1,7 @@
+sh /sdcard/Android/data/com.k2tap.master/files/exe/activate.sh
+
+
+
 # Introduction
 
 Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
